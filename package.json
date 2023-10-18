@@ -1,0 +1,22 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React by MRBehera",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste-react"
+  ],
+  "author": "MRBehera",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbehera2305/namasteReact.git"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
