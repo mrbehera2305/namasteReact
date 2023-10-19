@@ -4,6 +4,8 @@
   "description": "Namaste React by MRBehera",
   "main": "App.js",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "jest"
   },
   "keywords": [
@@ -17,6 +19,11 @@
     "url": "git+https://github.com/mrbehera2305/namasteReact.git"
   },
   "devDependencies": {
-    "parcel": "^2.10.0"
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
